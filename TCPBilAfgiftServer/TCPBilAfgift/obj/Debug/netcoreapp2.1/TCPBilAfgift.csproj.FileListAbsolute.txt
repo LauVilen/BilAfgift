@@ -1,0 +1,25 @@
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.AssemblyInfo.cs
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\TCPBilAfgift.deps.json
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\TCPBilAfgift.runtimeconfig.json
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\TCPBilAfgift.runtimeconfig.dev.json
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\TCPBilAfgift.dll
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\TCPBilAfgift.pdb
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.dll
+C:\Users\Laura\source\repos\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.pdb
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\TCPBilAfgift.deps.json
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\TCPBilAfgift.runtimeconfig.json
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\TCPBilAfgift.runtimeconfig.dev.json
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\TCPBilAfgift.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\TCPBilAfgift.pdb
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.AssemblyInfo.cs
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.csproj.CopyComplete
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgift\TCPBilAfgift\obj\Debug\netcoreapp2.1\TCPBilAfgift.pdb
