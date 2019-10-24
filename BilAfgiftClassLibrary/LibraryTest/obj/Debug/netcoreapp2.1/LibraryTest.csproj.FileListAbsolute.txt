@@ -1,0 +1,17 @@
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\bin\Debug\netcoreapp2.1\LibraryTest.deps.json
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\bin\Debug\netcoreapp2.1\LibraryTest.runtimeconfig.json
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\bin\Debug\netcoreapp2.1\LibraryTest.runtimeconfig.dev.json
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\bin\Debug\netcoreapp2.1\LibraryTest.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\bin\Debug\netcoreapp2.1\LibraryTest.pdb
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\obj\Debug\netcoreapp2.1\LibraryTest.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\obj\Debug\netcoreapp2.1\LibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\obj\Debug\netcoreapp2.1\LibraryTest.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\obj\Debug\netcoreapp2.1\LibraryTest.AssemblyInfo.cs
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\obj\Debug\netcoreapp2.1\LibraryTest.csproj.CopyComplete
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\obj\Debug\netcoreapp2.1\LibraryTest.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\BilAfgiftClassLibrary\LibraryTest\obj\Debug\netcoreapp2.1\LibraryTest.pdb
