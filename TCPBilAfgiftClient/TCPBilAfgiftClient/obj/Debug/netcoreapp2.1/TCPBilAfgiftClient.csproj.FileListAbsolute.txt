@@ -1,0 +1,11 @@
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\bin\Debug\netcoreapp2.1\TCPBilAfgiftClient.deps.json
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\bin\Debug\netcoreapp2.1\TCPBilAfgiftClient.runtimeconfig.json
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\bin\Debug\netcoreapp2.1\TCPBilAfgiftClient.runtimeconfig.dev.json
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\bin\Debug\netcoreapp2.1\TCPBilAfgiftClient.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\bin\Debug\netcoreapp2.1\TCPBilAfgiftClient.pdb
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\obj\Debug\netcoreapp2.1\TCPBilAfgiftClient.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\obj\Debug\netcoreapp2.1\TCPBilAfgiftClient.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\obj\Debug\netcoreapp2.1\TCPBilAfgiftClient.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\obj\Debug\netcoreapp2.1\TCPBilAfgiftClient.AssemblyInfo.cs
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\obj\Debug\netcoreapp2.1\TCPBilAfgiftClient.dll
+C:\Users\Laura\source\repos\Eksamen\Mock Eksamen 1\TCPBilAfgiftClient\TCPBilAfgiftClient\obj\Debug\netcoreapp2.1\TCPBilAfgiftClient.pdb
